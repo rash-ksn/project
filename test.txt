@@ -5,3 +5,8 @@ public static void main()
 system.out.print("Hi Java")
 }
 }
+
+else
+
+system.out.print("Hi world")
+}ss
